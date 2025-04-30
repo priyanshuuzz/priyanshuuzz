@@ -24,3 +24,21 @@ I'm always excited to connect with other tech enthusiasts! Feel free to reach ou
 - [LinkedIn](https://www.linkedin.com/in/priyanshuz/)  
 - [Email](mailto:priyanshuojha09@gmail.com)  
 
+---
+
+## 📊 GitHub Stats
+
+![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshuz&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+---
+
+## ⚡ GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshuz&theme=radical)
+
+---
+
+## 🧑‍💻 Top Languages
+
+![Python Code](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuz&langs_count=5&theme=radical)
+
