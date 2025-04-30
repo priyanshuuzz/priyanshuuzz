@@ -1,9 +1,20 @@
-- 👋 Hi, I’m @priyanshuuzz
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning c
-- 💞️ I’m looking to collaborate on ...
+# Hi, I'm Priyanshu! 👋
 
-<!---
-priyanshuuzz/priyanshuuzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **Computer Science Engineering** student with a strong focus on **Python** and diving deep into the world of **AI/ML**. Currently, I'm learning, experimenting, and building things one step at a time.
+
+## 💻 What I’m Learning
+- **Python**: Mastering Python to work on real-world projects.
+- **AI/ML**: Exploring machine learning algorithms and frameworks like TensorFlow and Keras.
+
+## 🚀 Current Focus
+- Deep diving into **Python** libraries like **NumPy**, **Pandas**, and **TensorFlow**.
+- Planning and starting some AI/ML-based projects (coming soon!).
+
+## 🌱 Learning Goals
+- Keep leveling up with Python.
+- Build strong AI/ML models and get hands-on experience.
+
+## 🔧 Tools I Use
+- **Languages**: Python
+- **Tools**: VS Code, Jupyter Notebook
+- **Libraries**: NumPy, Pandas, TensorFlow, Keras
