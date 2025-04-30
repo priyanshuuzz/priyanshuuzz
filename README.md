@@ -18,3 +18,9 @@ I'm a **Computer Science Engineering** student with a strong focus on **Python**
 - **Languages**: Python
 - **Tools**: VS Code, Jupyter Notebook
 - **Libraries**: NumPy, Pandas, TensorFlow, Keras
+
+## 📫 Let’s Connect  
+I'm always excited to connect with other tech enthusiasts! Feel free to reach out if you want to collaborate or chat about cool ideas.  
+- [LinkedIn](https://www.linkedin.com/in/priyanshuz/)  
+- [Email](mailto:priyanshuojha09@gmail.com)  
+
