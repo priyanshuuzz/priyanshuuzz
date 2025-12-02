@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/6etgS7P.gif" width="800"/>
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="800"/>
 </p>
 
 # Hi, I'm Priyanshu! 👋  
@@ -35,9 +35,9 @@ My focus is on turning ideas into real working applications with clean code & so
 
 ## 🌱 Learning Goals  
 - Build strong ML models  
-- Gain deep understanding of AI/ML  
+- Gain deep AI/ML understanding  
 - Contribute to open-source  
-- Deploy ML apps with APIs & web apps
+- Deploy ML apps with APIs + web apps
 
 ---
 
@@ -66,7 +66,7 @@ My focus is on turning ideas into real working applications with clean code & so
 
 ## 🎉 Animated Banner  
 <p align="center">
-  <img src="https://i.imgur.com/q3Yt6Ku.gif" width="600">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
 </p>
 
 ---
@@ -78,5 +78,5 @@ My focus is on turning ideas into real working applications with clean code & so
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://i.imgur.com/JX8r8MT.gif" width="300" />
+  <img src="https://media.tenor.com/whis1iV1lZMAAAAC/coding-gif.gif" width="300" />
 </p>
