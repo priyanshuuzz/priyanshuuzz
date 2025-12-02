@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me  
 I'm a **Computer Science Engineering** student diving deep into **Python**, **AI/ML**, and intelligent systems.  
-My focus is on turning ideas into real working applications with clean code & strong fundamentals.
+My focus is on turning ideas into real working applications with clean code & solid fundamentals.
 
 ---
 
@@ -26,24 +26,24 @@ My focus is on turning ideas into real working applications with clean code & st
 ---
 
 ## ⚡ What I'm Doing Now  
-✔ Mastering **Python** (advanced concepts)  
+✔ Mastering **Python**  
 ✔ Learning **Machine Learning**  
 ✔ Working on datasets & ML pipelines  
-✔ Preparing projects for GitHub  
+✔ Building real-world AI/ML projects  
 
 ---
 
 ## 🌱 Learning Goals  
-- Build and deploy end-to-end ML models  
-- Strong AI/ML fundamentals  
+- Build strong ML models  
+- Improve AI/ML knowledge  
 - Contribute to open-source  
-- Deploy ML apps with APIs + web apps  
+- Deploy ML apps with APIs & web apps  
 
 ---
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/priyanshuz/">
+  <a href="https://www.linkedin.com/in/priyanshuuzz/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:priyanshuojha09@gmail.com">
@@ -56,7 +56,7 @@ My focus is on turning ideas into real working applications with clean code & st
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=priyanshuuzz&theme=tokyonight&show_icons=true&include_all_commits=true" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=priyanshuz&theme=tokyonight" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=priyanshuuzz&theme=tokyonight" height="170"/>
 </p>
 
 ---
