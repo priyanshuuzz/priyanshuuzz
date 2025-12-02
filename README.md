@@ -1,14 +1,20 @@
-# Hi, I'm Priyanshu! 👋  
-<!-- Typing SVG -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=22D3EE&size=28&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Python+%7C+AI%2FML+Enthusiast;Building+AI+Projects+Step+by+Step;Always+Learning+New+Things!" />
+  <img src="https://i.imgur.com/6etgS7P.gif" width="800"/>
+</p>
+
+# Hi, I'm Priyanshu! 👋  
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&width=800&lines=Computer+Science+Engineering+Student;AI%2FML+Enthusiast+%7C+Python+Developer;Building+Smart+AI+Projects;Learning+Daily%2C+Improving+Daily" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me  
-I'm a **Computer Science Engineering** student passionate about **Python**, **AI/ML**, and building smart, real-world applications.  
-Right now, I’m focusing on mastering ML libraries, improving my coding skills, and preparing for AI-driven projects.
+I'm a **Computer Science Engineering** student diving deep into **Python**, **AI/ML**, and intelligent systems.  
+My focus is on turning ideas into real working applications with clean code & solid fundamentals.
 
 ---
 
@@ -19,61 +25,58 @@ Right now, I’m focusing on mastering ML libraries, improving my coding skills,
 
 ---
 
-## ⚡ Current Focus  
-- Mastering **Python** deeply  
-- Learning **Machine Learning** & model building  
-- Building real-world AI projects  
-- Improving data handling & preprocessing using **NumPy/Pandas**
+## ⚡ What I'm Doing Now  
+✔ Mastering **Python** (advanced concepts)  
+✔ Practicing **Machine Learning**  
+✔ Working on datasets & ML pipelines  
+✔ Preparing projects for GitHub
 
 ---
 
-## 🌱 Goals  
-- Build and deploy end-to-end ML models  
-- Become strong in AI/ML fundamentals  
-- Contribute to open-source ML projects  
-- Level up via daily project-based learning  
+## 🌱 Learning Goals  
+- Build strong ML models  
+- Gain deep understanding of AI/ML  
+- Contribute to open-source  
+- Deploy ML apps with APIs & web apps
 
 ---
 
-## 📫 Connect With Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/priyanshuz/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="mailto:priyanshuojha09@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/priyanshuz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:priyanshuojha09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshuz&show_icons=true&theme=radical&hide_title=true&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=priyanshuz&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshuz&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=priyanshuz&theme=tokyonight" height="170" />
 </p>
 
 ---
 
 ## 🧠 Top Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuz&layout=compact&theme=radical&langs_count=6" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuz&layout=compact&theme=tokyonight&langs_count=6" height="160" />
 </p>
 
 ---
 
-## 🎉 Fun Animated Banner  
+## 🎉 Animated Banner  
 <p align="center">
   <img src="https://i.imgur.com/q3Yt6Ku.gif" width="600">
 </p>
 
 ---
 
-## 🌀 Contribution Graph (Snake Animation)  
+## ✨ Animated Quote  
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monospace&pause=1000&color=F97316&width=700&lines=Consistency+%2B+Focus+%3D+Success;Keep+Learning%2C+Keep+Growing" />
 </p>
 
----
-
-## ⭐ Quote I Live By  
+<!-- Footer -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F97316&size=24&center=true&vCenter=true&width=700&lines=Consistency+%2B+Focus+%3D+Success;Learn+Everyday%2C+Improve+Everyday" />
+  <img src="https://i.imgur.com/JX8r8MT.gif" width="300" />
 </p>
-
