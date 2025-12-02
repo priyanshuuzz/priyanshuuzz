@@ -1,54 +1,69 @@
-<!-- HEADER BANNER -->
+<!-- HEADER ANIME BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clean.png" width="100%">
+  <img src="https://raw.githubusercontent.com/0x3Dzen/AnimePlanet-Banners/main/Banners/Cyberpunk/cyberpunk-street-4k.gif" width="100%">
 </p>
 
-<h1 align="center">🙏 Namaste, I'm Priyanshu Ojha</h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jaeheonji/portfolio-icons/main/workspace.png" width="500px">
-</p>
+<h1 align="center">👋 Hey, I'm Priyanshu Ojha</h1>
+<p align="center">A Curious Mind Exploring Python, AI & Intelligent Systems</p>
 
 ---
 
-## 👨‍💻 About Me  
-I'm currently pursuing **Computer Science Engineering**, improving my programming skills and exploring various domains in tech. My academic + personal learning journey focuses on:
+<!-- ABOUT SECTION WITH SIDE IMAGE -->
+<table>
+<tr>
 
+<td width="60%" valign="top">
+
+## 💡 About Me  
+I'm a **Computer Science Engineering** student passionate about building things that make life easier & smarter.  
+
+My current focus areas:  
 - 🚀 Python, AI/ML & Data  
-- 📘 Gaining strong foundations in development  
-- 🧠 Exploring intelligent systems & automation  
-- 🤝 Open to collaboration and learning  
-- 🎯 Long-term goal: Build & deploy impactful AI projects  
+- 📘 Strong fundamentals in software development  
+- 🤖 Exploring intelligent systems & automation  
+- 🎯 Aim: Build advanced AI-driven tools  
+- ✨ Improving daily, learning daily  
+- 🤝 Open to collaboration  
+
+</td>
+
+<td width="40%" align="center">
+  <img src="https://raw.githubusercontent.com/jaeheonji/portfolio-icons/main/illustrations/coding-boy.png" width="250">
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 📬 Connect with Me  
+## 🌐 Connect with Me  
 <p align="left">
-<a href="https://www.linkedin.com/in/priyanshuuzz/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="mailto:priyanshuojha09@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=instagram"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=youtube"/></a>
+  <a href="https://www.linkedin.com/in/priyanshuuzz/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"></a>
+  <a href="mailto:priyanshuojha09@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" width="40"></a>
 </p>
 
 ---
 
 # 📊 GitHub Status  
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyanshuuzz&theme=github_dark" height="160">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=priyanshuuzz&theme=github_dark" height="160">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priyanshuuzz&theme=github_dark" height="160">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshuuzz&theme=github_dark" width="90%">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshuuzz&show_icons=true&theme=midnight-purple" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuuzz&layout=compact&theme=midnight-purple" height="160">
 </p>
 
 ---
 
-# 🧠 Languages & Tools I Use  
+# 🧠 Most Used Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,numpy,pandas,git,github,vscode,linux,cpp,java,html,css,javascript,mysql,sqlite" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priyanshuuzz&theme=nord_bright" height="150">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=priyanshuuzz&theme=nord_bright" height="150">
+</p>
+
+---
+
+# 🛠 Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,git,github,linux,vscode,bootstrap,figma,sqlite,mysql,tensorflow,opencv" />
 </p>
 
 ---
@@ -59,21 +74,18 @@ I'm currently pursuing **Computer Science Engineering**, improving my programmin
 <td width="50%">
   
 ### 📘 Data Science  
-Contains ML notes, exercises, dataset analysis and model building.
-
-**Tech:** Python, Pandas, NumPy  
-**Type:** Jupyter Notebook  
-🟦 Repo coming soon...
+ML notes, dataset analysis and ML experiments.  
+👨‍💻 *Tech:* Python, Pandas, NumPy  
+📂 *Type:* Jupyter Notebook  
 
 </td>
+
 <td width="50%">
 
-### 🤖 Artificial Intelligence  
-Models, experiments & ML workflows including preprocessing, training and evaluation.
-
-**Tech:** Python, ML Libraries  
-**Type:** Python Scripts  
-🟩 Repo coming soon...
+### 🤖 AI Experiments  
+Neural networks, preprocessing, model training & evaluation.  
+⚙ *Tech:* Python, ML Libraries  
+📂 *Type:* Scripts  
 
 </td>
 </tr>
@@ -81,32 +93,26 @@ Models, experiments & ML workflows including preprocessing, training and evaluat
 
 ---
 
-# 🛠 Tech Stack  
+# 🧰 Tech Stack  
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-# ☕ Support My Work  
+# ☕ Support Me  
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Buy_me_a_coffee-FCCD04?style=for-the-badge&logo=buymeacoffee&logoColor=black"></a>
+  <a href="#"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"></a>
 </p>
 
 ---
 
-<!-- FOOTER AESTHETIC IMAGE -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</p>
-
+<!-- FOOTER SCENE -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/jaeheonji/portfolio-icons/main/japanese-footer.png" width="100%">
 </p>
-
