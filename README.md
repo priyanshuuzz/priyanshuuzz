@@ -1,44 +1,79 @@
-# Hi, I'm Priyanshu! 👋
-
-I'm a **Computer Science Engineering** student with a strong focus on **Python** and diving deep into the world of **AI/ML**. Currently, I'm learning, experimenting, and building things one step at a time.
-
-## 💻 What I’m Learning
-- **Python**: Mastering Python to work on real-world projects.
-- **AI/ML**: Exploring machine learning algorithms and frameworks like TensorFlow and Keras.
-
-## 🚀 Current Focus
-- Deep diving into **Python** libraries like **NumPy**, **Pandas**, and **TensorFlow**.
-- Planning and starting some AI/ML-based projects (coming soon!).
-
-## 🌱 Learning Goals
-- Keep leveling up with Python.
-- Build strong AI/ML models and get hands-on experience.
-
-## 🔧 Tools I Use
-- **Languages**: Python
-- **Tools**: VS Code, Jupyter Notebook
-- **Libraries**: NumPy, Pandas, TensorFlow, Keras
-
-## 📫 Let’s Connect  
-I'm always excited to connect with other tech enthusiasts! Feel free to reach out if you want to collaborate or chat about cool ideas.  
-- [LinkedIn](https://www.linkedin.com/in/priyanshuz/)  
-- [Email](mailto:priyanshuojha09@gmail.com)  
+# Hi, I'm Priyanshu! 👋  
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=22D3EE&size=28&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Python+%7C+AI%2FML+Enthusiast;Building+AI+Projects+Step+by+Step;Always+Learning+New+Things!" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-
-![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshuz&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
----
-
-## ⚡ GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshuz&theme=radical)
+## 🧑‍💻 About Me  
+I'm a **Computer Science Engineering** student passionate about **Python**, **AI/ML**, and building smart, real-world applications.  
+Right now, I’m focusing on mastering ML libraries, improving my coding skills, and preparing for AI-driven projects.
 
 ---
 
-## 🧑‍💻 Top Languages
+## 🚀 Skills & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,numpy,pandas,vscode,github,git,linux" />
+</p>
 
-![Python Code](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuz&langs_count=5&theme=radical)
+---
+
+## ⚡ Current Focus  
+- Mastering **Python** deeply  
+- Learning **Machine Learning** & model building  
+- Building real-world AI projects  
+- Improving data handling & preprocessing using **NumPy/Pandas**
+
+---
+
+## 🌱 Goals  
+- Build and deploy end-to-end ML models  
+- Become strong in AI/ML fundamentals  
+- Contribute to open-source ML projects  
+- Level up via daily project-based learning  
+
+---
+
+## 📫 Connect With Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/priyanshuz/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="mailto:priyanshuojha09@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshuz&show_icons=true&theme=radical&hide_title=true&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=priyanshuz&theme=radical" height="170" />
+</p>
+
+---
+
+## 🧠 Top Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuz&layout=compact&theme=radical&langs_count=6" height="160" />
+</p>
+
+---
+
+## 🎉 Fun Animated Banner  
+<p align="center">
+  <img src="https://i.imgur.com/q3Yt6Ku.gif" width="600">
+</p>
+
+---
+
+## 🌀 Contribution Graph (Snake Animation)  
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ⭐ Quote I Live By  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F97316&size=24&center=true&vCenter=true&width=700&lines=Consistency+%2B+Focus+%3D+Success;Learn+Everyday%2C+Improve+Everyday" />
+</p>
 
