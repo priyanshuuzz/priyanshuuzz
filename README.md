@@ -64,13 +64,6 @@ My focus is on turning ideas into real working applications with clean code & so
 
 ---
 
-## 🎉 Animated Banner  
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
-</p>
-
----
-
 ## ✨ Animated Quote  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Monospace&pause=1000&color=F97316&width=700&lines=Consistency+%2B+Focus+%3D+Success;Keep+Learning%2C+Keep+Growing" />
