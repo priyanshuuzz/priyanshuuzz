@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me  
 I'm a **Computer Science Engineering** student diving deep into **Python**, **AI/ML**, and intelligent systems.  
-My focus is on turning ideas into real working applications with clean code & solid fundamentals.
+My focus is on turning ideas into real working applications with clean code & strong fundamentals.
 
 ---
 
@@ -27,39 +27,43 @@ My focus is on turning ideas into real working applications with clean code & so
 
 ## ⚡ What I'm Doing Now  
 ✔ Mastering **Python** (advanced concepts)  
-✔ Practicing **Machine Learning**  
+✔ Learning **Machine Learning**  
 ✔ Working on datasets & ML pipelines  
-✔ Preparing projects for GitHub
+✔ Preparing projects for GitHub  
 
 ---
 
 ## 🌱 Learning Goals  
-- Build strong ML models  
-- Gain deep AI/ML understanding  
+- Build and deploy end-to-end ML models  
+- Strong AI/ML fundamentals  
 - Contribute to open-source  
-- Deploy ML apps with APIs + web apps
+- Deploy ML apps with APIs + web apps  
 
 ---
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/priyanshuz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:priyanshuojha09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/priyanshuz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:priyanshuojha09@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshuz&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=priyanshuz&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshuz&theme=tokyonight&show_icons=true&include_all_commits=true" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=priyanshuz&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
 ## 🧠 Top Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuz&layout=compact&theme=tokyonight&langs_count=6" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuz&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
