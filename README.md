@@ -55,7 +55,7 @@ My focus is on turning ideas into real working applications with clean code & st
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshuz&theme=tokyonight&show_icons=true&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshuuzz&theme=tokyonight&show_icons=true&include_all_commits=true" height="170"/>
   <img src="https://streak-stats.demolab.com/?user=priyanshuz&theme=tokyonight" height="170"/>
 </p>
 
@@ -63,7 +63,7 @@ My focus is on turning ideas into real working applications with clean code & st
 
 ## 🧠 Top Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuz&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuuzz&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
